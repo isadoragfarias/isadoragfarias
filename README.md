@@ -12,16 +12,11 @@ Biotechnology and bioprocess engineer. Master's student in Chemical Engineering 
 ### 💡 About myself
 - **Researcher** at [LaFaC](https://www.lafac.ufscar.br/).
 - B.Sc. in **Biotechnology and Bioprocess Engineering** from [Universidade Federal de Campina Grande](https://portal.ufcg.edu.br/).
-- M.Sc. in **Chemical Engineering** from [CEFET/RJ](http://www.cefet-rj.br/).
+- M.Sc. in **Chemical Engineering** from [UFSCar](https://www.ufscar.br/).
 
 ### 🔎 Tools
-- Business Intelligence;
 - Statistics and mathematics;
-- Python, R and Excel;
-- SQL;
-- Data Analysis and Data Visualization;
-- Machine Learning;
-- Power BI.
+- Python and Excel;
 
 ### 📝 What am I studying
 1. Chemical processes;
